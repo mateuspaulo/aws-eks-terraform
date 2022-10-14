@@ -6,8 +6,6 @@ https://learn.hashicorp.com/terraform/kubernetes/provision-eks-cluster#optional-
 Prerequisites
 The tutorial assumes some basic familiarity with Kubernetes and kubectl but does not assume any pre-existing deployment.
 
-It also assumes that you are familiar with the usual Terraform plan/apply workflow. If you're new to Terraform itself, refer first to the Getting Started tutorial.
-
 For this tutorial, you will need:
 
 an AWS account

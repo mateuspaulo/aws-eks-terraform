@@ -1,2 +1,1 @@
-# eks
-Create AWS EKS cluster with Terrafom
+# Create AWS EKS cluster with Terrafom

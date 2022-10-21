@@ -16,7 +16,7 @@ the Kubernetes CLI, also known as kubectl
 In your terminal, clone the following repository. It contains the example configuration used in this tutorial.
 
 ```
-$ git clone https://github.com/hashicorp/learn-terraform-provision-eks-cluster
+$ git clone https://github.com/mateuspaulo/aws-eks-terraform.git
 ```
 
 Change into the repository directory.
